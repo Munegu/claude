@@ -1,0 +1,14 @@
+{
+  "name": "nv-claude",
+  "description": "Skills et agents Claude Code perso de Nicolas Villetelle",
+  "owner": {
+    "name": "Nicolas Villetelle"
+  },
+  "plugins": [
+    {
+      "name": "perso",
+      "source": "./plugins/perso",
+      "description": "Skills et agents perso de Nicolas (notes Obsidian, messages, commits)"
+    }
+  ]
+}
