@@ -9,6 +9,7 @@ Marketplace Claude Code perso, partagé entre la machine du boulot et la machine
 | `perso` | `/perso:commit-msg` | Message de commit Conventional Commits à partir des changements |
 | `perso` | `/perso:feature-note` | Note Obsidian de fin de feature + ajout à la daily note (vault : `~/Sites/perso/obsidian`) |
 | `perso` | `/perso:message` | Message Slack/Teams/mail avec mon ton, selon le destinataire |
+| `perso` | `/perso:laravel-db-sync` | Synchronise la BDD locale d'un projet Laravel (rollback des migrations d'autres branches, migrate, diagnostic) |
 
 ## Installation sur une machine
 
