@@ -10,6 +10,8 @@ Marketplace Claude Code perso, partagé entre la machine du boulot et la machine
 | `perso` | `/perso:feature-note` | Note Obsidian de fin de feature + ajout à la daily note (vault : `~/Sites/perso/obsidian`) |
 | `perso` | `/perso:message` | Message Slack/Teams/mail avec mon ton, selon le destinataire |
 | `perso` | `/perso:laravel-db-sync` | Synchronise la BDD locale d'un projet Laravel (rollback des migrations d'autres branches, migrate, diagnostic) |
+| `perso` | `/perso:laravel-composer-audit` | Audit CVE Composer (+ npm en option) d'un projet Laravel, update, vérifications et analyse d'impact |
+| `perso` | `/perso:laravel-write-tests` | Tests PHPUnit/Pest Laravel selon les conventions du projet, puis exécution |
 
 ## Installation sur une machine
 
